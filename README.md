@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Gautham+JB+%3C3;I'+am+a+3rd+yr+Undergraduate+at+Amrita;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Gautham+JB+^_^;I'+am+a+3rd+yr+Undergraduate+at+Amrita;Welcome+to+my+profile+!">
 </p>
 
 <p  align="center">
@@ -19,7 +19,7 @@
 </p>
 <br>
 
-[![Gautham JB' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gauthamjb&custom_title=GauthamJB%20Liao's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://gauthamjb.dev)
+[![Gautham JB' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gauthamjb&custom_title=Gautham%20JB's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://gauthamjb.dev)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
