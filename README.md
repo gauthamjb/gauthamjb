@@ -34,6 +34,8 @@
 ![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![dart](https://img.shields.io/badge/dart-3178C6.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![flutter](https://img.shields.io/badge/Flutter-3178C6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-FFCA28?style=for-the-badge&logo=shell&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
@@ -41,6 +43,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![reactjs](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![virtualbox](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![manjaro](https://img.shields.io/badge/manjaro-green.svg?style=for-the-badge&logo=manjaro&logoColor=white)&nbsp;
+![linux](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;
 <p  align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
