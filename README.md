@@ -50,12 +50,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<p align="center">
 
-![](https://raw.githubusercontent.com/gauthamjb/gauthamjb/00073397e45d886f179d0ac109540c7714d83a33/github-contribution-grid-snake.svg)
 
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 
 
